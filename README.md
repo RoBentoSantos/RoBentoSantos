@@ -1,4 +1,4 @@
-## Olá, sou o Rodrigo 👋
+<h1 align="center">Olá, eu sou o Rodrigo 👋</h1>
 
 Desenvolvedor focado em construir soluções modernas, escaláveis e bem estruturadas. Trabalho com desenvolvimento web, combinando frontend, backend e banco de dados para criar aplicações funcionais, organizadas e com boa experiência de uso.
 
