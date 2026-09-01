@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, eu sou o RoBentoSantos 👋
 
-<!--
-**RoBentoSantos/RoBentoSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em construir soluções modernas, escaláveis e bem estruturadas. Trabalho com desenvolvimento web, combinando frontend, backend e banco de dados para criar aplicações funcionais, organizadas e com boa experiência de uso.
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em código, aprender novas tecnologias e evoluir continuamente na construção de software com qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e ferramentas
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Sobre mim
+
+- 💻 Atuo com desenvolvimento web
+- ⚙️ Foco em frontend e backend
+- 🗄️ Experiência com bancos de dados relacionais
+- 🧩 Interesse em arquitetura limpa, boas práticas e código organizado
+- 🚀 Sempre buscando entregar soluções simples, eficientes e bem estruturadas
+
+### Contato
+
+- GitHub: [RoBentoSantos](https://github.com/RoBentoSantos)
