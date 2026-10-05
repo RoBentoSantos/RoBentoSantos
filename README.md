@@ -16,7 +16,7 @@ Gosto de transformar ideias em código, aprender novas tecnologias e evoluir con
 ### Sobre mim
 
 - 💻 Atuo com desenvolvimento web
-- ⚙️ Foco em frontend e backend
+- ⚙️ Foco em backend
 - 🗄️ Experiência com bancos de dados relacionais
 - 🧩 Interesse em arquitetura limpa, boas práticas e código organizado
 - 🚀 Sempre buscando entregar soluções simples, eficientes e bem estruturadas
